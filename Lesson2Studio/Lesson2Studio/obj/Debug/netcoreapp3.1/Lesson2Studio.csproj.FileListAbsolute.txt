@@ -1,0 +1,11 @@
+C:\Users\Dennis\Programming\C#programming\Lesson2Studio\Lesson2Studio\bin\Debug\netcoreapp3.1\Lesson2Studio.exe
+C:\Users\Dennis\Programming\C#programming\Lesson2Studio\Lesson2Studio\bin\Debug\netcoreapp3.1\Lesson2Studio.deps.json
+C:\Users\Dennis\Programming\C#programming\Lesson2Studio\Lesson2Studio\bin\Debug\netcoreapp3.1\Lesson2Studio.runtimeconfig.json
+C:\Users\Dennis\Programming\C#programming\Lesson2Studio\Lesson2Studio\bin\Debug\netcoreapp3.1\Lesson2Studio.runtimeconfig.dev.json
+C:\Users\Dennis\Programming\C#programming\Lesson2Studio\Lesson2Studio\bin\Debug\netcoreapp3.1\Lesson2Studio.dll
+C:\Users\Dennis\Programming\C#programming\Lesson2Studio\Lesson2Studio\bin\Debug\netcoreapp3.1\Lesson2Studio.pdb
+C:\Users\Dennis\Programming\C#programming\Lesson2Studio\Lesson2Studio\obj\Debug\netcoreapp3.1\Lesson2Studio.csprojAssemblyReference.cache
+C:\Users\Dennis\Programming\C#programming\Lesson2Studio\Lesson2Studio\obj\Debug\netcoreapp3.1\Lesson2Studio.AssemblyInfoInputs.cache
+C:\Users\Dennis\Programming\C#programming\Lesson2Studio\Lesson2Studio\obj\Debug\netcoreapp3.1\Lesson2Studio.AssemblyInfo.cs
+C:\Users\Dennis\Programming\C#programming\Lesson2Studio\Lesson2Studio\obj\Debug\netcoreapp3.1\Lesson2Studio.dll
+C:\Users\Dennis\Programming\C#programming\Lesson2Studio\Lesson2Studio\obj\Debug\netcoreapp3.1\Lesson2Studio.pdb
